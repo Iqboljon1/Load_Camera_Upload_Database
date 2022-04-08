@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Codial/Project/Load_Camera_Upload_Database/app/src/main/res/drawable/ic_launcher_background.xml" value="0.158" />
+        <entry key="..\:/Codial/Project/Load_Camera_Upload_Database/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.158" />
         <entry key="..\:/Codial/Project/Load_Camera_Upload_Database/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
         <entry key="..\:/Codial/Project/Load_Camera_Upload_Database/app/src/main/res/layout/add_dialog.xml" value="0.33" />
         <entry key="..\:/Codial/Project/Load_Camera_Upload_Database/app/src/main/res/layout/item_image.xml" value="0.20416666666666666" />
